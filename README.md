@@ -1,1 +1,1 @@
-Hej, this is my first project of personal webstite.
+Hej, this is my first project of personal website.
