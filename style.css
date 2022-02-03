@@ -7,11 +7,8 @@
     color: #000000 ;
        
 }
-
-.cntnr
+.container
 {
-    max-width: 500px;
-    max-height: 100px;
     background-color: #fcfcfce3;
     box-shadow: 0 5px 8px rgba(136, 136, 136, 0.514);
     border-radius: 8px;
@@ -23,26 +20,7 @@
     left:50%;
     transform: translate(-50%, -50%);
 }
-.title
+.text
 {
-    font-size: 34px;
-    font-weight: 400;
-    margin: 10px 0px 10px;
-    word-wrap: break-word;
-    text-align: justify;
-}
-.desc
-{
-    max-width: 550px;
-    max-height: 100px;
-    word-wrap: break-word;
-    text-align: justify;
-    font-size: 17px;
-    line-height: 1.5;
-    font-weight: normal;
-}
-.col-sm
-{
-    border-width: 30px ;
-    border-color: #091186;
+
 }
