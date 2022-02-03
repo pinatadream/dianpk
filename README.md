@@ -1,2 +1,1 @@
-# dianpk
-# Personal website
+Hej, this is my first project of personal webstite.
