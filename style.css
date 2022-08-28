@@ -3,7 +3,7 @@
 
     margin: 0 auto;
     padding: 0;
-    background-color: #091186 ;
+    background-color: #ffffff ;
     color: #000000 ;
        
 }
@@ -21,17 +21,19 @@
     transform: translate(-50%, -50%);
 }
 /* Dian Permata Kurniashani */
-.title
+.header
 {
-position: absolute;
+margin: auto;
+margin-top: 30px;
 width: 645px;
 height: 48px;
-left: 400px;
-top: 72px;
+/* left: 400px;
+top: 400px; */
+padding: 50px;
 
 font-family: 'Roboto';
 font-style: normal;
-font-weight: 400;
+font-weight: 450;
 font-size: 47px;
 line-height: 55px;
 display: flex;
@@ -39,6 +41,26 @@ align-items: center;
 text-align: center;
 
 color: #000000;
+}
 
+/*menu bar*/
+.menu
+{
+/* margin: auto;
+width: 645px;
+height: 48px; */
+/* left: 400px;
+top: 400px; */
+padding: 50px;
 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 450;
+font-size: 150px;
+line-height: 55px;
+display: flex;
+/* align-items: center;
+text-align: center; */
+
+color: #000000;
 }
