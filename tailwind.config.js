@@ -11,10 +11,7 @@ module.exports = {
       colors: {
         warna: 'rgb(248 250 252)'
       },
-      fontFamily: {
-        'sans': ['Algerian', ...defaultTheme.fontFamily.sans],
-      }
-    },
+    }
   },
   plugins: [],
 }

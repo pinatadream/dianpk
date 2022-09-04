@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-// import bikinan sendiri 
+// import custom component 
 import Header from '../components/header'
 
 export default function About() {
